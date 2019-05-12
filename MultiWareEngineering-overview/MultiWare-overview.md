@@ -1,7 +1,65 @@
-# MultiWare 5/9/2019
+# MultiWare 5/10/2019
 
 Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
+
+## Cloud Vendors
+
+### Amazon AWS
+
+Https://aws.amazon.com  
+
+Amazon provides a free tier account for a period of one year to evaluation users.
+
+### Microsoft Azure
+
+[Https://microsoft.com](Https://microsoft.com)
+
+### Google GCP & Anthos
+
+[Https://google.com](Https://google.com)
+
+### IBM Cloud
+
+[Https://ibm.com](Https://ibm.com)
+
+### Oracle Cloud
+
+Oracle offers a 30-day free account w/$300 credit to use for evaluation. After 30-days you must convert to paid as you go account.
+
+## Devo Platforms
+
+### Mac OS X
+
+[Https://apple.com](Https://apple.com)
+
+### GNU/Linux
+
+### Microsoft Windows
+
+## DevOps
+
+### Microservices 
+
+### Continuous delivery
+
+### Continuous integration
+
+### Monitoring & Logging
+
+### Infra as Code
+
+### Collaboration
+
+### Policy as Code
+
+## Education
+
+### Udemy
+
+[Https://udemy.com](Https://udemy.com)
+
+### 
 
 ## SCM
 
@@ -27,67 +85,40 @@ Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 	[Https://bitbucket.com](Https://bitbucket.com)
 
-## Education
-
-### Udemy
-
-[Https://udemy.com](Https://udemy.com)
-
-### 
-
-## DevOps
-
-### Microservices 
-
-### Continuous delivery
-
-### Continuous integration
-
-### Monitoring & Logging
-
-### Infra as Code
-
-### Collaboration
-
-### Policy as Code
-
 ## Tools
 
-### Jenkins
+### Acctopus
 
-Https://jenkins.io
+https://lnkd.in/dz_SJNZ
 
-### Harness
+### Ansible
 
-[Https://harness.io](Https://harness.io)
-
-### GoCD
-
-[Https://gocd.org](Https://gocd.org)
+[Https://ansible.com](Https://ansible.com)
 
 ### Docker
 
 [Https://docker.com](Https://docker.com)
 
-### Ansible
+### GoCD
 
-[Https://ansible.com](Https://ansible.com)
+### Gradle
+
+[Https://gradle.org](Https://gradle.org)
+
+
+### Harness
+
+[Https://harness.io](Https://harness.io)
+
+### Jenkins
+
+Https://jenkins.io
 
 ## Virtualization
 
 ### VMware Fusion
 
 ### Oracle VirtualBox
-
-## Devo Platforms
-
-### Mac OS X
-
-[Https://apple.com](Https://apple.com)
-
-### GNU/Linux
-
-### Microsoft Windows
 
 ## Open Source IDE’s
 
@@ -110,30 +141,6 @@ Https://jenkins.io
 ### PyCharm Pro
 
 [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
-
-## Cloud Vendors
-
-### Amazon AWS
-
-Https://aws.amazon.com  
-
-Amazon provides a free tier account for a period of one year to evaluation users.
-
-### Microsoft Azure
-
-[Https://microsoft.com](Https://microsoft.com)
-
-### Google GCP & Anthos
-
-[Https://google.com](Https://google.com)
-
-### IBM Cloud
-
-[Https://ibm.com](Https://ibm.com)
-
-### Oracle Cloud
-
-Oracle offers a 30-day free account w/$300 credit to use for evaluation. After 30-days you must convert to paid as you go account.
 
 ## Open Source Languages
 

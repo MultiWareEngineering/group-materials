@@ -1,4 +1,4 @@
-# MultiWare 5/10/2019
+# MultiWare 5/16/2019
 
 Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
@@ -29,7 +29,9 @@ Oracle offers a 30-day free account w/$300 credit to use for evaluation. After 3
 
 ## Devo Platforms
 
-### Mac OS X
+### CentOS-7
+
+### macOS Mojave 10.14.6b (18G29g)
 
 [Https://apple.com](Https://apple.com)
 
@@ -52,6 +54,40 @@ Oracle offers a 30-day free account w/$300 credit to use for evaluation. After 3
 ### Collaboration
 
 ### Policy as Code
+
+## DevOps Tools
+
+### Git
+
+### Jenkins
+
+### Nagios
+
+### Selenium
+
+### Puppet
+
+### Docker
+
+## More Tools
+
+### Acctopus
+
+https://lnkd.in/dz_SJNZ
+
+### Ansible
+
+[Https://ansible.com](Https://ansible.com)
+
+### GoCD
+
+### Gradle
+
+[Https://gradle.org](Https://gradle.org)
+
+### Harness
+
+[Https://harness.io](Https://harness.io)
 
 ## Education
 
@@ -84,35 +120,6 @@ Oracle offers a 30-day free account w/$300 credit to use for evaluation. After 3
 - BitBucket
 
 	[Https://bitbucket.com](Https://bitbucket.com)
-
-## Tools
-
-### Acctopus
-
-https://lnkd.in/dz_SJNZ
-
-### Ansible
-
-[Https://ansible.com](Https://ansible.com)
-
-### Docker
-
-[Https://docker.com](Https://docker.com)
-
-### GoCD
-
-### Gradle
-
-[Https://gradle.org](Https://gradle.org)
-
-
-### Harness
-
-[Https://harness.io](Https://harness.io)
-
-### Jenkins
-
-Https://jenkins.io
 
 ## Virtualization
 

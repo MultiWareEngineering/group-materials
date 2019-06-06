@@ -1,3 +1,20 @@
+
+
+![image](https://goodall.com/~doug/MultiWareEngineeringLogo.png)
+[LinkedIn Group](https://www.linkedin.com/groups/13701564/)
+
+Data Flow in Sensor Network:
+```mermaid
+sequenceDiagram
+Sink->>Intermediate: What is your status?
+Intermediate->>Proxy: What is your status?
+Proxy->>Source: What is your status?
+Source->>Proxy: My status is
+Proxy->>Intermediate: My status is
+Intermediate->>Sink: My status is
+```
+
+
 # group-materials
 Materials for LinkedIn "MultiWare Engineering" group members
 
